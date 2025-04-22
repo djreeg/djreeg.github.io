@@ -1,5 +1,5 @@
-title: Sample Website for Poetry Collection
+title: Website Demo
 description: This is a sample website for publishing a poetry collection using the Leap Day theme.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day
